@@ -8,8 +8,8 @@
 <body>
     <div id="container">
         <div id="cabecera">
-            <img id="logo" src="imagenes/dragon.png" /> Hyperblog
-            <span id="tagline">tu blog de cabecera</span>
+        <img id="logo" src="https://app-jesus.herokuapp.com/Imagenes/dragon.png" /> Hyperblog
+            <span id="tagline">tu blog de cabecera. El mejor del mundo......</span>
         </div>
         <div id="post">
             <h1>Este es el &uacute;ltimo título atractivo del post</h1>
