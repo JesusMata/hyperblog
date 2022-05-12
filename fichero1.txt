@@ -15,4 +15,9 @@ cambio 1
 =======
 
 Experimento 2
+<<<<<<< HEAD
 >>>>>>> c413849 (experimento2)
+=======
+
+Experimento 3
+>>>>>>> 8eb9278 (experimento3)
