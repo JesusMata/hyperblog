@@ -4,7 +4,10 @@ soy jesus mata, profesor en informatica
 Master 1
 
 Master 2
+<<<<<<< HEAD
 
 
 cambio 1
 
+=======
+>>>>>>> d33d43b (arreglando conflicto de merge)
