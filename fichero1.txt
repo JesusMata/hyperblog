@@ -26,6 +26,9 @@ final expermiento
 
 Astrid master
 astrid experimento
+<<<<<<< HEAD
 
 
 change sleep
+=======
+>>>>>>> e6500dd (arreglando conflicto)
