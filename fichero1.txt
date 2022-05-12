@@ -23,9 +23,9 @@ Final master
 
 final expermiento
 
-<<<<<<< HEAD
 
 Astrid master
-=======
 astrid experimento
->>>>>>> a20b1f7 (astrid experimento)
+
+
+change sleep
