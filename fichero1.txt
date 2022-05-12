@@ -16,12 +16,12 @@ Experimento 2
 
 Experimento 3
 
-<<<<<<< HEAD
 Final master
 
-=======
 
 
 
 final expermiento
->>>>>>> 01c2ae1 (final experimento)
+
+
+Astrid master
