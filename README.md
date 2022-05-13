@@ -11,3 +11,4 @@ Un blog increible para el curso de github en platzi
 - Rebase
 - Creado por el increible platzi team
 - Incluye ejemplos en windows, linux y max
+- Disponible para todas las edades
